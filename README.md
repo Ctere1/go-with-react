@@ -1,7 +1,10 @@
 <h1 align="center">
   <br>
-   <a ><img src="" width="100"></a><br>
+  
+   ![Screenshot 2023-04-29 065602](https://user-images.githubusercontent.com/62745858/235282615-e921b6c6-4367-47a3-b3ce-c29960bb7e56.png)
+   
    React with GO    
+
 
    ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -48,13 +51,6 @@ At the end of the day get binary build that holds backend and frontend together 
  $ ./dev.sh 
  ```
 
- > For running the app:
- ```bash
- # Go into the repository
- $ cd react-native-chat
- # Run the expo
- $ expo start
- ```
 
 ## ©License
 ![GitHub](https://img.shields.io/github/license/Ctere1/go-with-react?style=flat-square)
